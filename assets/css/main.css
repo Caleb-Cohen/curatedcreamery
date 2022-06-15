@@ -1510,10 +1510,15 @@ input, select, textarea {
 		}
 
 		.image.featured.iceCream5 {
-			display: block;
-			width: 50%;
+			display: flex;
 			margin: 0 0 3.5em 0;
-			align-items: center;
+			justify-content: center;
+		}
+
+		span.iceCream5 {
+			align-items: center !important;
+			display: flex !important;
+			justify-content: center !important;
 		}
 
 		.image.left {
