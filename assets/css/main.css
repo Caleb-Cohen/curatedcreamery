@@ -1515,12 +1515,6 @@ input, select, textarea {
 			justify-content: center;
 		}
 
-		span.iceCream5 {
-			align-items: center !important;
-			display: flex !important;
-			justify-content: center !important;
-		}
-
 		.image.left {
 			float: left;
 			margin: 0 1.5em 1.5em 0;
